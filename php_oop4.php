@@ -42,6 +42,6 @@ class Fiat extends Car
     }
 }
 
-$car = new Fiat("AB123CD", "Fiat Punto");
-$car->setMyCarTelaio("1234567890");
+$car = new Fiat("ND 123 OJ", "Opel");
+$car->setMyCarTelaio("1234");
 $car->printMessage();
