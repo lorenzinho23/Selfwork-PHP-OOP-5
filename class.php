@@ -39,4 +39,4 @@ class Storia extends Category
 }
 
 $storia = new Storia();
-echo $storia->getMyCategory();
+//echo $storia->getMyCategory();
